@@ -1,0 +1,10 @@
+{
+  "replacementPatterns": [
+    { "pattern": "^http://", "replacement": "https://" }
+  ],
+  "ignorePatterns": [
+    { "pattern": "https://www.buymeacoffee.com/" },
+    { "pattern": "https://github.com/.+/.+" }
+  ],
+  "httpHeaders": []
+}
